@@ -1,5 +1,6 @@
 <div align="center">
-# TensorTonic Solutions
+
+ # TensorTonic Solutions
  
 **Machine learning algorithms, implemented from scratch and verified.**
 
@@ -10,6 +11,7 @@
 [Platform](https://www.tensortonic.com) · [Verified Profile](https://www.tensortonic.com/profile/ayush-2703) · [Solutions Index](#-solutions-index)
  
 </div>
+
 ---
  
 ## 📌 Overview
@@ -35,6 +37,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/ayush-2703)
 <!-- tensortonic:end -->
 
+
 ## 👤 About the Author
  
 **Ayush Kumar Singh**: final-year B.Tech Artificial Intelligence student at Amity University Lucknow, working toward ML/AI engineering roles.
@@ -45,6 +48,7 @@ View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/p
 ---
  
 <div align="center">
-<sub>If you find this useful, consider giving the repo a ⭐</sub>
+
+ <sub>If you find this useful, consider giving the repo a ⭐</sub>
+
 </div>
- 
