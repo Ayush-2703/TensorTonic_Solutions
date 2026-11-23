@@ -1,5 +1,10 @@
 <div align="center">
 
+  <!-- Brand Header & TensorTonic Logo (Uses Google Favicon/Brand Asset API + Custom Styled Mark) -->
+  <a href="https://www.tensortonic.com/profile/ayush-2703">
+    <img src="https://www.google.com/s2/favicons?domain=tensortonic.com&sz=128" alt="TensorTonic Logo" width="76" height="76" />
+  </a>
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:F97316&height=200&section=header&text=TensorTonic%20Solutions&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Learn%20ML%20through%20code&descSize=18&descAlignY=62" alt="TensorTonic Solutions" width="100%" />
 
 **Machine learning algorithms, implemented from scratch.**
@@ -10,19 +15,6 @@
 [**Platform**](https://www.tensortonic.com) · [**Profile**](https://www.tensortonic.com/profile/ayush-2703)
 
 </div>
-
-<div align="center">
-
-  <!-- Brand Header & TensorTonic Logo (Uses Google Favicon/Brand Asset API + Custom Styled Mark) -->
-  <a href="https://www.tensortonic.com/profile/ayush-2703">
-    <img src="https://www.google.com/s2/favicons?domain=tensortonic.com&sz=128" alt="TensorTonic Logo" width="76" height="76" />
-  </a>
-
-  <h1>TensorTonic Solutions</h1>
-
-  <p>
-    <strong>First-Principles Machine Learning, Deep Learning & GPU Kernel Implementations</strong>
-  </p>
 
 ---
  
