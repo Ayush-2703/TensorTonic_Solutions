@@ -8,7 +8,7 @@
 ![Focus](https://img.shields.io/badge/Focus-ML%20from%20Scratch-informational)
 ![Status](https://img.shields.io/badge/Status-Actively%20Growing-success)
  
-[Platform](https://www.tensortonic.com) · [Verified Profile](https://www.tensortonic.com/profile/ayush-2703) · [Solutions Index](#-solutions-index)
+[Platform](https://www.tensortonic.com) · [Profile](https://www.tensortonic.com/profile/ayush-2703) · [Solutions Index](#-solutions-index)
  
 </div>
 
