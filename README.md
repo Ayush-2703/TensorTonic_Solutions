@@ -61,8 +61,7 @@ You're free to use, fork, and build on this for personal and commercial projects
 
 ### Ayush Kumar Singh
 
-*Entry-level engineer in AI, ML, DL, GenAI, LLM, NLP, Adversarial ML, Geospatial AI Systems*
-
+*Entry-level engineer in AI, ML, DL, GenAI, LLM, NLP, Adversarial ML, Geospatial AI Systems*<br>
 Building practical ML systems with careful evaluation and clear, reproducible engineering.
 
 [![TensorTonic](https://img.shields.io/badge/TensorTonic-Profile-34D399?style=for-the-badge)](https://www.tensortonic.com/profile/ayush-2703)
