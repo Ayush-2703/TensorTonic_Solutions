@@ -2,8 +2,7 @@
 # TensorTonic Solutions
  
 **Machine learning algorithms, implemented from scratch and verified.**
- 
-[![TensorTonic Verified Solutions](https://www.tensortonic.com/api/badge/ayush-2703.svg)](https://www.tensortonic.com/profile/ayush-2703)
+
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-ML%20from%20Scratch-informational)
 ![Status](https://img.shields.io/badge/Status-Actively%20Growing-success)
