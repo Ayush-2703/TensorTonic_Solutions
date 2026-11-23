@@ -9,3 +9,19 @@ Here you'll find my solutions to various machine learning and deep learning prob
 TensorTonic is a platform where you can implement core algorithms of Machine Learning from scratch.
 
 This repository contains my personal solutions to these problems, automatically synchronized from the platform.
+
+<!-- tensortonic:start -->
+# Ayush Kumar Singh's TensorTonic Solutions
+
+Verified machine learning implementations completed on [TensorTonic](https://www.tensortonic.com).
+
+<p align="center">
+  <img src="https://www.tensortonic.com/api/badge/ayush-2703.svg" alt="TensorTonic Verified Solutions" width="100%" />
+</p>
+
+| Problem | Description | Link |
+|---|---|---|
+| Time-Based Split with a Gap | Split rows into training and validation sets along time, with a gap after the cutoff so labels cannot leak across it. | https://www.tensortonic.com/problems/time-based-split-with-gap |
+
+View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/ayush-2703)
+<!-- tensortonic:end -->
