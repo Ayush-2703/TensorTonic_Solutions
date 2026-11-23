@@ -11,6 +11,19 @@
 
 </div>
 
+<div align="center">
+
+  <!-- Brand Header & TensorTonic Logo (Uses Google Favicon/Brand Asset API + Custom Styled Mark) -->
+  <a href="https://www.tensortonic.com/profile/ayush-2703">
+    <img src="https://www.google.com/s2/favicons?domain=tensortonic.com&sz=128" alt="TensorTonic Logo" width="76" height="76" />
+  </a>
+
+  <h1>TensorTonic Solutions</h1>
+
+  <p>
+    <strong>First-Principles Machine Learning, Deep Learning & GPU Kernel Implementations</strong>
+  </p>
+
 ---
  
 ## 📌 Overview
