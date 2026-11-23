@@ -37,18 +37,38 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/ayush-2703)
 <!-- tensortonic:end -->
 
-
-## 👤 About the Author
- 
-**Ayush Kumar Singh**: final-year B.Tech Artificial Intelligence student at Amity University Lucknow, working toward ML/AI engineering roles.
- 
-[![GitHub](https://img.shields.io/badge/GitHub-Ayush--2703-181717?logo=github)](https://github.com/Ayush-2703)
-[![TensorTonic](https://img.shields.io/badge/TensorTonic-Verified%20Profile-blueviolet)](https://www.tensortonic.com/profile/ayush-2703)
- 
 ---
  
+## 📜 License
+
+Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.  
+You're free to use, fork, and build on this for personal and commercial projects.
+
+---
+
+## 👤 About the Author
+
 <div align="center">
 
- <sub>If you find this useful, consider giving the repo a ⭐</sub>
+### Ayush Kumar Singh
+
+*Entry-level engineer in AI, ML, DL, GenAI, LLM, NLP, Adversarial ML, Geospatial AI Systems*<br>
+Building practical ML systems with careful evaluation and clear, reproducible engineering.
+
+[![TensorTonic](https://img.shields.io/badge/TensorTonic-Profile-blueviolet)](https://www.tensortonic.com/profile/ayush-2703)
+[![GitHub](https://img.shields.io/badge/GitHub-Ayush%20Kumar%20Singh-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushsingh2703)
+[![Email](https://img.shields.io/badge/Email-Ayush%20Kumar%20Singh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**If this repository helped you, please consider giving it a ⭐**  
+*It takes 2 seconds and helps others discover it.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:F97316&height=100&section=footer" width="100%"/>
 
 </div>
