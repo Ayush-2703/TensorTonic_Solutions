@@ -4,7 +4,7 @@
     <img src="https://www.google.com/s2/favicons?domain=tensortonic.com&sz=128" alt="TensorTonic Logo" width="76" height="76" />
   </a>
 
-![TensorTonic](https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:064E3B,100:10B981&height=200&section=header&text=TensorTonic%20Solutions&fontSize=44&fontColor=ECFDF5&fontAlignY=40&animation=fadeIn&desc=Learn%20ML%20through%20code&descSize=20&descAlignY=58)
+![TensorTonic](https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:064E3B,100:10B981&height=200&section=header&text=TensorTonic%20Solutions&fontSize=44&fontColor=ECFDF5&fontAlignY=40&animation=fadeIn&desc=Learn%20ML%20through%20code&descSize=20&descAlignY=60)
 
   **Machine learning algorithms, implemented from scratch.**
 
@@ -78,6 +78,6 @@ Building practical ML systems with careful evaluation and clear, reproducible en
 **If this repository helped you, please consider giving it a ⭐**<br>
 *It takes 2 seconds and helps others discover it.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:F97316&height=100&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:064E3B,100:10B981&height=100&section=footer" alt="" width="100%" />
 
 </div>
