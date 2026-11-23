@@ -1,15 +1,16 @@
 <div align="center">
 
- # TensorTonic Solutions
- 
-**Machine learning algorithms, implemented from scratch and verified.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:F97316&height=200&section=header&text=TensorTonic%20Solutions&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Learn%20ML%20through%20code&descSize=18&descAlignY=62" alt="TensorTonic Solutions" width="100%" />
+
+**Machine learning algorithms, implemented from scratch.**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-ML%20from%20Scratch-informational)
+![Focus](https://img.shields.io/badge/Focus-ML%20from%20Scratch-F97316)
+![Verified](https://img.shields.io/badge/Solutions-Verified-1E1B4B)
 ![Status](https://img.shields.io/badge/Status-Actively%20Growing-success)
- 
-[Platform](https://www.tensortonic.com) · [Profile](https://www.tensortonic.com/profile/ayush-2703) 
- 
+
+[**Platform**](https://www.tensortonic.com) · [**Verified Profile**](https://www.tensortonic.com/profile/ayush-2703)
+
 </div>
 
 ---
@@ -38,10 +39,10 @@ View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/p
 <!-- tensortonic:end -->
 
 ---
- 
+
 ## 📜 License
 
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.  
+Distributed under the **MIT License**. See [`LICENSE`](https://github.com/Ayush-2703/TensorTonic-Solutions/blob/main/LICENSE) for details.
 You're free to use, fork, and build on this for personal and commercial projects.
 
 ---
@@ -52,10 +53,11 @@ You're free to use, fork, and build on this for personal and commercial projects
 
 ### Ayush Kumar Singh
 
-*Entry-level engineer in AI, ML, DL, GenAI, LLM, NLP, Adversarial ML, Geospatial AI Systems*<br>
+*Entry-level engineer in AI, ML, DL, GenAI, LLM, NLP, Adversarial ML, Geospatial AI Systems*
+
 Building practical ML systems with careful evaluation and clear, reproducible engineering.
 
-[![TensorTonic](https://img.shields.io/badge/TensorTonic-Profile-blueviolet)](https://www.tensortonic.com/profile/ayush-2703)
+[![TensorTonic](https://img.shields.io/badge/TensorTonic-Profile-F97316?style=for-the-badge)](https://www.tensortonic.com/profile/ayush-2703)
 [![GitHub](https://img.shields.io/badge/GitHub-Ayush%20Kumar%20Singh-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-2703)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushsingh2703)
 [![Email](https://img.shields.io/badge/Email-Ayush%20Kumar%20Singh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ab49ayush@gmail.com)
@@ -66,9 +68,9 @@ Building practical ML systems with careful evaluation and clear, reproducible en
 
 <div align="center">
 
-**If this repository helped you, please consider giving it a ⭐**  
+**If this repository helped you, please consider giving it a ⭐**
 *It takes 2 seconds and helps others discover it.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:F97316&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:F97316&height=100&section=footer" alt="" width="100%" />
 
 </div>
