@@ -1,18 +1,22 @@
 <div align="center">
 
-  <!-- Brand Header & TensorTonic Logo (Uses Google Favicon/Brand Asset API + Custom Styled Mark) -->
   <a href="https://www.tensortonic.com/profile/ayush-2703">
     <img src="https://www.google.com/s2/favicons?domain=tensortonic.com&sz=128" alt="TensorTonic Logo" width="76" height="76" />
   </a>
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:F97316&height=200&section=header&text=TensorTonic%20Solutions&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Learn%20ML%20through%20code&descSize=18&descAlignY=62" alt="TensorTonic Solutions" width="100%" />
 
-**Machine learning algorithms, implemented from scratch.**
+![TensorTonic](https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:064E3B,100:10B981&height=200&section=header&text=TensorTonic%20Solutions&fontSize=44&fontColor=ECFDF5&fontAlignY=40&animation=fadeIn&desc=Learn%20ML%20through%20code&descSize=20&descAlignY=58)
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-ML%20from%20Scratch-F97316)
+  **Machine learning algorithms, implemented from scratch.**
 
-[**Platform**](https://www.tensortonic.com) · [**Profile**](https://www.tensortonic.com/profile/ayush-2703)
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.x-10B981?style=for-the-badge&labelColor=09090B&logo=python&logoColor=34D399" alt="Python" />
+    <img src="https://img.shields.io/badge/NumPy-Array%20Engine-059669?style=for-the-badge&labelColor=09090B&logo=numpy&logoColor=34D399" alt="NumPy" />
+    <img src="https://img.shields.io/badge/PyTorch-Tensors%20%26%20NN-10B981?style=for-the-badge&labelColor=09090B&logo=pytorch&logoColor=34D399" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/scikit--learn-Baselines-047857?style=for-the-badge&labelColor=09090B&logo=scikitlearn&logoColor=34D399" alt="scikit-learn" />
+    <img src="https://img.shields.io/badge/CUDA%20%26%20Triton-GPU%20Kernels-065F46?style=for-the-badge&labelColor=09090B&logo=nvidia&logoColor=34D399" alt="CUDA & Triton" />
+  </p>
+
+  [**Platform**](https://www.tensortonic.com) · [**Problems**](https://www.tensortonic.com/problems) · [**Profile**](https://www.tensortonic.com/profile/ayush-2703)
 
 </div>
 
