@@ -6,10 +6,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-ML%20from%20Scratch-F97316)
-![Verified](https://img.shields.io/badge/Solutions-Verified-1E1B4B)
-![Status](https://img.shields.io/badge/Status-Actively%20Growing-success)
 
-[**Platform**](https://www.tensortonic.com) · [**Verified Profile**](https://www.tensortonic.com/profile/ayush-2703)
+[**Platform**](https://www.tensortonic.com) · [**Profile**](https://www.tensortonic.com/profile/ayush-2703)
 
 </div>
 
