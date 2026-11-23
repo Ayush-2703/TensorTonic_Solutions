@@ -66,7 +66,7 @@ Building practical ML systems with careful evaluation and clear, reproducible en
 
 <div align="center">
 
-**If this repository helped you, please consider giving it a ⭐**
+**If this repository helped you, please consider giving it a ⭐**<br>
 *It takes 2 seconds and helps others discover it.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:F97316&height=100&section=footer" alt="" width="100%" />
